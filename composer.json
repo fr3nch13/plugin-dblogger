@@ -1,0 +1,20 @@
+{
+	"name" : "nih-fo/plugin-dblogger",
+	"description" : "CakePHP Plugin: Database Change Logging",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "database", "Logging"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*"
+	}
+}
