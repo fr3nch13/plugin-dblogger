@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Database Change Logging",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "database", "Logging"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
